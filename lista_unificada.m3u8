@@ -1,0 +1,47 @@
+#EXTM3U
+
+# -- FILMES --
+#EXTINF:-1 tvg-id="plutotv-cinesucessos" tvg-name="Pluto TV Cine Sucessos" tvg-logo="https://images.pluto.tv/channels/5f2a3f88f6d3470007d7e7b8/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f88f6d3470007d7e7b8/master.m3u8
+#EXTINF:-1 tvg-id="plutotv-filmesacao" tvg-name="Pluto TV Filmes Ação" tvg-logo="https://images.pluto.tv/channels/5fc939fb2139b40007d36c9e/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Ação
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc939fb2139b40007d36c9e/master.m3u8
+#EXTINF:-1 tvg-id="plutotv-filmesdrama" tvg-name="Pluto TV Filmes Drama" tvg-logo="https://images.pluto.tv/channels/5f7b66a26cfa540007760dc5/colorLogoPNG.png" group-title="Filmes",Pluto TV Filmes Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b66a26cfa540007760dc5/master.m3u8
+
+# -- SÉRIES --
+#EXTINF:-1 tvg-id="plutotv-seriescomedia" tvg-name="Pluto TV Séries Comédia" tvg-logo="https://images.pluto.tv/channels/5f5a7c7af265960007d2852b/colorLogoPNG.png" group-title="Séries",Pluto TV Séries Comédia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a7c7af265960007d2852b/master.m3u8
+#EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Runtime_Logo.png" group-title="Séries",Runtime Séries
+https://runtime-esp.rakuten.wurl.tv/playlist.m3u8
+
+# -- INFANTIL --
+#EXTINF:-1 tvg-id="plutotv-infantil" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f2a3f2cf6d3470007d7e7b7/colorLogoPNG.png" group-title="Infantil",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f2cf6d3470007d7e7b7/master.m3u8
+
+# -- ESPORTES --
+#EXTINF:-1 tvg-id="plutotv-esportes" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/6048f949aca1dc00074ace30/colorLogoPNG.png" group-title="Esportes",Pluto TV Esportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6048f949aca1dc00074ace30/master.m3u8
+#EXTINF:-1 tvg-id="plutotv-futebol" tvg-name="Pluto TV Futebol" tvg-logo="https://images.pluto.tv/channels/5f3b93e63cc744000735a599/colorLogoPNG.png" group-title="Esportes",Pluto TV Futebol
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3b93e63cc744000735a599/master.m3u8
+
+# -- NOTÍCIAS --
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Euronews-Logo.png" group-title="Notícias",Euronews (Inglês)
+https://rakuten-euronews-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="plutotv-noticias" tvg-name="Pluto TV Notícias" tvg-logo="https://images.pluto.tv/channels/5fa3c28f4b8e2400073fa7d4/colorLogoPNG.png" group-title="Notícias",Pluto TV Notícias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa3c28f4b8e2400073fa7d4/master.m3u8
+
+# -- MÚSICA --
+#EXTINF:-1 tvg-id="plutotv-hits" tvg-name="Pluto TV Hits" tvg-logo="https://images.pluto.tv/channels/5fa42e254b8e2400073fa804/colorLogoPNG.png" group-title="Música",Pluto TV Hits
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa42e254b8e2400073fa804/master.m3u8
+
+# -- DOCUMENTÁRIOS --
+#EXTINF:-1 tvg-id="plutotv-natureza" tvg-name="Pluto TV Natureza" tvg-logo="https://images.pluto.tv/channels/5f1a55c0f57a960007efee4d/colorLogoPNG.png" group-title="Documentários",Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1a55c0f57a960007efee4d/master.m3u8
+
+# -- VARIEDADES --
+#EXTINF:-1 tvg-id="plutotv-variedades" tvg-name="Pluto TV Variedades" tvg-logo="https://images.pluto.tv/channels/5fa4347f4b8e2400073fa81f/colorLogoPNG.png" group-title="Variedades",Pluto TV Variedades
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa4347f4b8e2400073fa81f/master.m3u8
+
+# -- INTERNACIONAIS --
+#EXTINF:-1 tvg-id="runtime-intl" tvg-name="Runtime Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Runtime_Logo.png" group-title="Internacionais",Runtime Internacional
+https://runtime-esp.rakuten.wurl.tv/playlist.m3u8
