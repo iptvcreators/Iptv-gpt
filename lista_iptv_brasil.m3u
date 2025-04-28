@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GloboSP" tvg-name="Globo SP" group-title="Abertos",Globo São Paulo
+https://streaming.globo.com/sinalaberto/globosp/index.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV Cultura" group-title="Abertos",TV Cultura
+https://play.cultura.uol.com.br/live/1.m3u8
+
+#EXTINF:-1 tvg-id="BandSP" tvg-name="Band SP" group-title="Abertos",Band São Paulo
+https://stream.band.com.br/band_sp/band_sp.m3u8
+
+#EXTINF:-1 tvg-id="RecordSP" tvg-name="Record SP" group-title="Abertos",Record São Paulo
+https://stream.recordtv.r7.com/recordsp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTVSP" tvg-name="RedeTV SP" group-title="Abertos",RedeTV São Paulo
+https://stream.redetv.com.br/rede_tv_sp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" group-title="Notícias",CNN Brasil
+https://youtube.com/watch?v=live_cnnbrasil.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record News" group-title="Notícias",Record News
+https://stream.recordnews.r7.com/recordnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV Brasil" group-title="Abertos",TV Brasil
+https://stream.ebc.com.br/tvbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" tvg-name="TV Câmara" group-title="Governo",TV Câmara
+https://stream.camara.leg.br/tvcamara/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado" tvg-name="TV Senado" group-title="Governo",TV Senado
+https://stream.senado.leg.br/tvsenado/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVNBR" tvg-name="TV NBR" group-title="Governo",TV NBR
+https://stream.ebc.com.br/TVNBR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura" tvg-name="Canal Futura" group-title="Educacional",Canal Futura
+https://stream.futura.org.br/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV Rá Tim Bum" group-title="Infantil",TV Rá Tim Bum
+https://stream.ratimbum.uol.com.br/live/playlist.m3u8
