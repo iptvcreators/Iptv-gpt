@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVBrasil" group-title="Abertos",TV Brasil
+https://playout.cdnnews.com.br/playouttvbr/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura" group-title="Abertos",TV Cultura
+https://stream-cultura.cmais.com.br/live/cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews" group-title="Notícias",Record News
+https://playplus-recornews-samsungtv.cdn.globoi.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado" group-title="Governo",TV Senado
+https://cdn.jmvstream.com/recorte/tvsenado/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" group-title="Governo",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="TVALESP" group-title="Governo",TV Alesp (Assembleia Legislativa SP)
+https://cdn.jmvstream.com/recorte/tvalesp/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura" group-title="Educativo",Canal Futura
+https://futuraplay.cdn.seg.br/playlist/1.m3u8
