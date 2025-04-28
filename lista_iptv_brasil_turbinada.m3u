@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVBrasil" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Logo_TV_Brasil_2019.png" group-title="Abertos",TV Brasil
+https://playout.cdnnews.com.br/playouttvbr/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/TV_Cultura_logo.png" group-title="Abertos",TV Cultura
+https://stream-cultura.cmais.com.br/live/cultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RecordNews" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Record_News_logo_2017.png" group-title="Notícias",Record News
+https://playplus-recornews-samsungtv.cdn.globoi.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSenado" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_da_TV_Senado.png" group-title="Governo",TV Senado
+https://cdn.jmvstream.com/recorte/tvsenado/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="TVCamara" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Logo_da_TV_C%C3%A2mara.png" group-title="Governo",TV Câmara
+https://stream3.camara.leg.br/tv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVALESP" tvg-name="TV Alesp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Alesp.png" group-title="Governo",TV Alesp
+https://cdn.jmvstream.com/recorte/tvalesp/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="CanalFutura" tvg-name="Canal Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_Futura_2017.png" group-title="Educativo",Canal Futura
+https://futuraplay.cdn.seg.br/playlist/1.m3u8
